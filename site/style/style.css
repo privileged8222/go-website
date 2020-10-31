@@ -1,0 +1,12 @@
+
+.main-div {
+  display: flex;
+}
+
+.top-nav nav {
+  width: 100%;
+}
+
+.top-nav a {
+  color: red;
+}
